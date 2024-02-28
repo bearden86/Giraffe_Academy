@@ -50,7 +50,7 @@ int main() {
 	double decimalNum = 3.8;
 
 	wholeNum++; // increment the value by 1, -- decrement by 1
-	wholeNum + 20; //  use operators, +, -, /, *
+	int newNum = wholeNum + 20; //  use operators, +, -, /, *
 
 	cout << pow(2, 5) << endl; // pow = exponents (number, power), can be decimal
 	cout << sqrt(36) << endl; // square root, can be decimal
